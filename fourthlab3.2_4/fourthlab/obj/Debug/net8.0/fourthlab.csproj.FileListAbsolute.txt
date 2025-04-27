@@ -1,0 +1,14 @@
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\bin\Debug\net8.0\fourthlab.exe
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\bin\Debug\net8.0\fourthlab.deps.json
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\bin\Debug\net8.0\fourthlab.runtimeconfig.json
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\bin\Debug\net8.0\fourthlab.dll
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\bin\Debug\net8.0\fourthlab.pdb
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\fourthlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\fourthlab.AssemblyInfoInputs.cache
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\fourthlab.AssemblyInfo.cs
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\fourthlab.csproj.CoreCompileInputs.cache
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\fourthlab.dll
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\refint\fourthlab.dll
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\fourthlab.pdb
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\fourthlab.genruntimeconfig.cache
+C:\Users\H4Z\source\repos\fourthlab\fourthlab\obj\Debug\net8.0\ref\fourthlab.dll
