@@ -1,0 +1,22 @@
+using System;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+     
+        string[] input = Console.ReadLine().Split(' ');
+        int N = int.Parse(input[0]);
+        int W = int.Parse(input[1]);
+
+        double a = 1.0 / W;
+
+        double b = 1.0 / N;
+
+        double c = b - a;
+
+        int d = (int)Math.Round(1 / c);
+
+        Console.WriteLine(d);
+    }
+}

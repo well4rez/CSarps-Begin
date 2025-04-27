@@ -1,0 +1,7 @@
+C:\Users\H4Z\Desktop\С#\Классы\dotic\bin\Debug\dotic.exe.config
+C:\Users\H4Z\Desktop\С#\Классы\dotic\bin\Debug\dotic.exe
+C:\Users\H4Z\Desktop\С#\Классы\dotic\bin\Debug\dotic.pdb
+C:\Users\H4Z\Desktop\С#\Классы\dotic\obj\Debug\dotic.csproj.AssemblyReference.cache
+C:\Users\H4Z\Desktop\С#\Классы\dotic\obj\Debug\dotic.csproj.CoreCompileInputs.cache
+C:\Users\H4Z\Desktop\С#\Классы\dotic\obj\Debug\dotic.exe
+C:\Users\H4Z\Desktop\С#\Классы\dotic\obj\Debug\dotic.pdb

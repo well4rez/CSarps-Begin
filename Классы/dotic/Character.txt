@@ -1,0 +1,34 @@
+public class Character
+{
+    public string Name { get; set; }
+    public int Level { get; set; }
+    public int Health { get; set; }
+    public int Strength { get; set; }
+    public int Agility { get; set; }
+    public bool Life {  get; set; }
+
+    public Character(string name)
+    {
+        Name = name;
+        Level = 1;
+        Health = 100;
+        Strength = 1;
+        Agility = 5;
+    }
+
+    public int Damage
+    {
+        get { return Strength * 2; }
+    }
+
+    public void OutputInfo()
+    {
+        Console.WriteLine("Ваши дефолтные значения: ");
+        Console.WriteLine($"Имя: {Name}");
+        Console.WriteLine($"Левел: {Level}");
+        Console.WriteLine($"Здоровье: {Health}");
+        Console.WriteLine($"Сила: {Strength}");
+        Console.WriteLine($"Урон: {Damage}");
+        Console.WriteLine($"Ловкость: {Agility}");
+    }
+}
